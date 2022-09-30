@@ -14,7 +14,7 @@ Tanto de "libros" voy a poder acceder/obtener datos a "biblioteca" y vicebersa.
 
 Imagen de la relación a realizar en BD:
 
-![Image text](https://github.com/yadevom/.../relacion_bd.png)
+![Image text](https://github.com/yadevom/apirest_biblioteca_bidirecional/blob/main/relacion_bd.png)
 
 ### Dependencias utilizadas para App
 - MySQL Drive
