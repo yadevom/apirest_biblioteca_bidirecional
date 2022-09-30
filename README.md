@@ -59,7 +59,7 @@ Registrar biblioteca - POST ```http://localhost:8080/api/library```
     "name": "Casa de programacion"
 }
 ```
-Actualizar producto - PUT ```http://localhost:8080/api/library/2```
+Actualizar biblioteca - PUT ```http://localhost:8080/api/library/2```
 
 Indicar el ID actualizar y escribir cuerpo dato a modificar
 ```
@@ -83,10 +83,10 @@ Consulta todas los libros - GET ```http://localhost:8080/api/books```
 
 Consulta libro en especifico - GET ```http://localhost:8080/api/books/2```
 
-Eliminar biblioteca - DELETE ```http://localhost:8080/api/books/2```
+Eliminar libro - DELETE ```http://localhost:8080/api/books/2```
 
 
-Actualizar producto - PUT ```http://localhost:8080/api/books/1```
+Actualizar libro - PUT ```http://localhost:8080/api/books/1```
 
 Indicar el ID actualizar dato del libro o biblioteca a modificar
 ```
